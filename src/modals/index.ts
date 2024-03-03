@@ -1,0 +1,1 @@
+export { YTTrascriptModal } from './youtube'
